@@ -1,0 +1,851 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "阪急西宮ガーデンズ",
+        "description": "映画館があるから",
+        "marker-size": "small",
+        "marker-color": "#34eba4",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.35826,
+          34.744483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ノエビアスタジアム神戸",
+        "description": "好きなチームのホームスタジアム",
+        "marker-size": "small",
+        "marker-color": "#3254a8",
+        "stroke": "#3254a8",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.169394,
+          34.657302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "club EARTH",
+        "description": "セカオワが作ったライブハウス",
+        "marker-size": "small",
+        "marker-color": "#3254a8",
+        "stroke": "#3254a8",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.74505,
+          35.555464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "アニメイト日本橋店",
+        "description": "いろいろ売ってます",
+        "marker-size": "small",
+        "marker-color": "#2af556",
+        "stroke": "#2af556",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.503407,
+          34.659092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大阪ハイテクノロジー専門学校",
+        "description": "大阪市淀川区宮原1-2-43",
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500882,
+          34.734798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "黒門市場",
+        "description": "大阪!!食の台所",
+        "marker-size": "small",
+        "marker-color": "#a48ff2",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.66397,
+          34.66397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "サンマルク",
+        "description": "バイト",
+        "marker-size": "small",
+        "marker-color": "#22bda3",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.70276,
+          34.841079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ラーメン荘",
+        "description": "行きたい",
+        "marker-size": "small",
+        "marker-color": "#22bda3",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.517554,
+          34.74741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "なかい家",
+        "description": "行きたい",
+        "marker-size": "small",
+        "marker-color": "#22bda3",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500826,
+          34.726951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "犬鳴ダム",
+        "description": "時々、怪奇現象が起きます",
+        "marker-size": "small",
+        "marker-color": "#34ebab",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.559841,
+          33.688103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "後楽園",
+        "description": "日本三大名園の一つ",
+        "marker-size": "small",
+        "marker-color": "#34ebab",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.935973,
+          34.666665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大歩危小歩危",
+        "description": "紅葉が見ものです",
+        "marker-size": "small",
+        "marker-color": "#34ebab",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.767272,
+          33.87682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ぽんぽこ温泉",
+        "description": "汚れと疲れはここで全部洗い流します",
+        "marker-size": "small",
+        "marker-color": "#1a1a7d",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.600689,
+          34.6684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "八戸の里公園",
+        "description": "地元の友達と集まる聖地",
+        "marker-size": "small",
+        "marker-color": "#1a1a7d",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.59171,
+          34.657738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ヒュース泉佐野(自分の家)",
+        "description": "一番ゆっくりできる場所",
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.322543,
+          34.411916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大阪府立貝塚南高校",
+        "description": "自分の行っていた高校",
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.364233,
+          34.423021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大阪府立貝塚第三中学校",
+        "description": "自分が通っていた中学校",
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.389888,
+          34.408941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大阪府立東山小学校",
+        "description": "芝生があってきもちいい小学校",
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.390315,
+          34.411379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "マクドナルド泉佐野店",
+        "description": "一番近くの場所",
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.314074,
+          34.401975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "くら寿司泉佐野店",
+        "description": "お寿司はとてもおいしい",
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.312621,
+          34.401527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "イオンモール神戸北",
+        "description": "アウトレットもあって時間潰し最強",
+        "marker-size": "small",
+        "marker-color": "#f0f0f0",
+        "stroke": "#000000",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.194495,
+          34.860961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "近江町市場",
+        "description": "海鮮がおいしいです。",
+        "marker-size": "small",
+        "marker-color": "#4287f5",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.570957,
+          36.570957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ラーメン二郎 目黒店",
+        "description": "一番おいしかったラーメン屋です。",
+        "marker-size": "small",
+        "marker-color": "#4287f5",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.705352,
+          35.633804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "松屋_JR尼崎店",
+        "description": "腹が減ったら飯(米)をクエェェェ!!!",
+        "marker-size": "small",
+        "marker-color": "#960505",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.431037,
+          34.730811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "SONY本店",
+        "description": "いろんなゲームが売られている",
+        "marker-size": "small",
+        "marker-color": "#32a866",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.745217,
+          35.634002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "草津温泉",
+        "description": "温泉気持ちいい",
+        "marker-size": "small",
+        "marker-color": "#32a866",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.575798,
+          36.627368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "神座",
+        "description": "ラーメンうまい",
+        "marker-size": "small",
+        "marker-color": "#32a866",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500128,
+          34.731317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "日清本社",
+        "description": "私の大好きな会社です",
+        "marker-size": "small",
+        "marker-color": "",
+        "stroke": "#FF0000",
+        "stroke-width": "#FFFFFF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.709965,
+          35.695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "草津温泉",
+        "description": "ここはいい温泉です",
+        "marker-size": "",
+        "marker-color": "small",
+        "stroke": "",
+        "stroke-width": "#FF0000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.575798,
+          36.627368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "国営昭和記念公園",
+        "description": "広大な土地にお花畑や遊具などがあり、春夏秋冬どの時季に行っても楽しめる。",
+        "marker-size": "small",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.40441,
+          35.707447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "タオロード",
+        "description": "昆虫採集に最適",
+        "marker-size": "small",
+        "marker-color": "#236b0f",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.405221,
+          35.784883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "伏見稲荷大社",
+        "description": "初詣はいつもここで",
+        "marker-size": "small",
+        "marker-color": "#FFFFFF",
+        "stroke": "#000000",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.784509,
+          34.971075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "若草山",
+        "description": "優しい山登りに",
+        "marker-size": "small",
+        "marker-color": "#FFFFFF",
+        "stroke": "#000000",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.848848,
+          34.687568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "淡路駅",
+        "description": "スッゲェ便利な駅",
+        "marker-size": "small",
+        "marker-color": "#FFFFFF",
+        "stroke": "#000000",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.51688,
+          34.739334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "箕面大滝",
+        "description": "滝を見たくなったらココ",
+        "marker-size": "small",
+        "marker-color": "#FFFFFF",
+        "stroke": "#000000",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.471974,
+          34.853771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大阪教育大学附属図書館天王寺分館",
+        "description": "初めての大学図書館",
+        "marker-size": "small",
+        "marker-color": "#FFFFFF",
+        "stroke": "#000000",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.520427,
+          34.647686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ユニバーサル・スタジオ・ジャパン",
+        "description": "「フライングダイナソー」にもう一回乗りたい！",
+        "marker-size": "small",
+        "marker-color": "#5eff00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.430523,
+          34.663394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "トトロの森　ふれあい湿地",
+        "description": "季節で変わる風景",
+        "marker-size": "small",
+        "marker-color": "#236b0f",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.401659,
+          35.78451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "駿府城公園",
+        "description": "城跡や桜大道芸が楽しめる",
+        "marker-size": "small",
+        "marker-color": "#236b0f",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.383145,
+          34.979249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "ミスタードーナツ アルデ新大阪ショップ",
+        "description": "新しくオープンしたみたいです",
+        "marker-size": "small",
+        "marker-color": "#5eff00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.500128,
+          34.731317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "トトロの森　ふれあい湿地",
+        "description": "季節で変わる風景",
+        "marker-size": "small",
+        "marker-color": "#236b0f",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.401659,
+          35.78451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "アニメイト天王寺店",
+        "description": "いろいろ売ってます",
+        "marker-size": "small",
+        "marker-color": "#2af556",
+        "stroke": "#2af556",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.51332,
+          34.645732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "でんでんタウン",
+        "description": "いつも非常にお世話になっております",
+        "marker-size": "small",
+        "marker-color": "#FFFFFF",
+        "stroke": "#000000",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.505121,
+          34.663021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "太陽の塔",
+        "description": "たいよーのとう",
+        "marker-size": "small",
+        "marker-color": "#FFFFFF",
+        "stroke": "#000000",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.532414,
+          34.80951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "時空（とき）の広場",
+        "description": "今、「CONAN CAFE」やってます",
+        "marker-size": "small",
+        "marker-color": "#5eff00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.493878,
+          34.700837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "天橋立",
+        "description": "一応日本三景の一つ",
+        "marker-size": "small",
+        "marker-color": "#5eff00",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.187742,
+          35.561169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "恩智神社",
+        "description": "祀られている兎がかわいい",
+        "marker-size": "small",
+        "marker-color": "#236b0f",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.606518,
+          34.606518
+        ]
+      }
+    }
+  ]
+}
